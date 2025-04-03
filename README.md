@@ -7,9 +7,9 @@ Este repositorio contiene mi currículum vitae en línea.
 * `index.html`: Archivo HTML principal que contiene la estructura y el contenido de mi CV.
 * `imagencv.jpeg`: Imagen de mi foto de perfil.
 
-## Cómo acceder al CV
+## Cómo acceder al currículum vitae
 
-Puedes ver mi CV online en la siguiente URL:
+Puedes ver mi currículum vitae en línea en la siguiente URL:
 
 [https://antu-velasquez.github.io/MiCV/](https://antu-velasquez.github.io/MiCV/)
 
@@ -17,7 +17,7 @@ Puedes ver mi CV online en la siguiente URL:
 ## Tecnologías utilizadas
 
 * HTML
-* CSS (estilos en línea)
+* CSS (estilos incrustados)
 
 ## Autor
 
