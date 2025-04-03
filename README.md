@@ -9,7 +9,7 @@ Este repositorio contiene mi currículum vitae en línea.
 
 ## Cómo acceder al currículum vitae
 
-Puedes ver mi currículum vitae en línea en la siguiente URL:
+Se puede ver el currículum vitae en línea en la siguiente URL:
 
 [https://antu-velasquez.github.io/MiCV/](https://antu-velasquez.github.io/MiCV/)
 
